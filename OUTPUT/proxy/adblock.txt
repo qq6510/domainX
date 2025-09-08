@@ -167,7 +167,6 @@
 ||1degree.com.au^
 ||1drv.com^
 ||1drv.ms^
-||1dumb.com^
 ||1e100.net^
 ||1eew.com^
 ||1inch.io^
@@ -305,7 +304,6 @@
 ||3ddecember.com^
 ||3december.com^
 ||3decemberonline.com^
-||3devilattack.net^
 ||3dfuckhouse.com^
 ||3dhentai.tv^
 ||3dhentaix.com^
@@ -459,7 +457,6 @@
 ||64wiki.com^
 ||66.ca^
 ||666kb.com^
-||666pool.cn^
 ||66lu.link^
 ||66wwmm.com^
 ||66xing.cc^

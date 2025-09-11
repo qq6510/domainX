@@ -664,7 +664,6 @@
 ||dns.dynx.pro^
 ||dns.eddi.net^
 ||dns.edgeburnmedia.com^
-||dns.efficientdocuments.com^
 ||dns.elemental.software^
 ||dns.eliv.kr^
 ||dns.engineer.web.id^
@@ -682,7 +681,6 @@
 ||dns.fehlsprache.de^
 ||dns.ffnw.de^
 ||dns.filipccz.eu^
-||dns.fizz.studio^
 ||dns.flatuslifir.is^
 ||dns.flightspace.net^
 ||dns.floriantinney.de^
@@ -2766,6 +2764,7 @@
 ||tw2.ooroot.com^
 ||twilightparadox.com^
 ||twodns.de^
+||twsuser.com^
 ||tyo01.dnscry.pt^
 ||tyo02.dnscry.pt^
 ||typaza.com^
@@ -2831,6 +2830,7 @@
 ||vitalwerks.com^
 ||vizvaz.com^
 ||vno01.dnscry.pt^
+||voles35.ru^
 ||vorlif.org^
 ||voyage-s01.cloudku.technology^
 ||voyez.ca^

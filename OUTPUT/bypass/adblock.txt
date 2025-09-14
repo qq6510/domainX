@@ -120,6 +120,7 @@
 ||adguard.easez.net^
 ||adguard.ef67daisuki.club^
 ||adguard.ender.fr^
+||adguard.gambini.org^
 ||adguard.gbrossi.com.br^
 ||adguard.haneulo.com^
 ||adguard.hartley.cloud^
@@ -680,7 +681,6 @@
 ||dns.fehlsprache.de^
 ||dns.ffnw.de^
 ||dns.filipccz.eu^
-||dns.fizz.studio^
 ||dns.flatuslifir.is^
 ||dns.flightspace.net^
 ||dns.floriantinney.de^
@@ -821,6 +821,7 @@
 ||dns.mullvad.net^
 ||dns.murgi.de^
 ||dns.muxinghe.cn^
+||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||dns.n23.io^
 ||dns.nako.kr^
@@ -1709,6 +1710,9 @@
 ||http-dns.imoim.net^
 ||httpdns-api.aliyuncs.com^
 ||httpdns-browser.platform.dbankcloud.cn^
+||httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn^
+||httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn^
+||httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn^
 ||httpdns-push.heytapmobile.com^
 ||httpdns-sc.aliyuncs.com^
 ||httpdns-sdk.n.netease.com^
@@ -2856,6 +2860,7 @@
 ||webok.net^
 ||webredirect.org^
 ||webs.vc^
+||wec-httpdns-platform-dbankcloud-com-drcn.region.dbankedge.cn^
 ||westblade.com^
 ||whyboner.com^
 ||wifizone.org^

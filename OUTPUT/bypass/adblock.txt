@@ -959,7 +959,6 @@
 ||dns.0ooo.icu^
 ||dns.0x55.net^
 ||dns.13evl.com^
-||dns.23-4.cn^
 ||dns.233py.com.cdn.cloudflare.net^
 ||dns.240527.xyz^
 ||dns.2poi.com^
@@ -1934,7 +1933,6 @@
 ||dnshome.de^
 ||dnshome.icu^
 ||dnsiskinky.com^
-||dnsjp.3300000.xyz^
 ||dnsking.ch^
 ||dnslive.net^
 ||dnslow.me^
@@ -1942,7 +1940,6 @@
 ||dnsmurray.de^
 ||dnsname.org^
 ||dnsnew.org^
-||dnsnl-noads.alekberg.net^
 ||dnsnl.alekberg.net^
 ||dnsomatic.com^
 ||dnsotls.lab.nic.cl^
@@ -1953,7 +1950,6 @@
 ||dnspod.cn^
 ||dnspub.restena.lu^
 ||dnsrd.com^
-||dnsse-noads.alekberg.net^
 ||dnssec.dns.enginyring.com^
 ||dnsserver.mailchan.eu^
 ||dnssilo.top^

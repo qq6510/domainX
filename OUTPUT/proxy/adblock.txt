@@ -631,6 +631,7 @@
 ||989x.tv^
 ||989y.tv^
 ||989z.tv^
+||996.icu^
 ||99btgc01.com^
 ||99cn.info^
 ||99quse.cc^
@@ -27259,6 +27260,7 @@
 ||tapbots.com^
 ||tapbots.net^
 ||tapestry.ac.uk^
+||taptap.io^
 ||taptap.tw^
 ||taptotokyo.com^
 ||taqunuhai.vip^

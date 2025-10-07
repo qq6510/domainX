@@ -2147,7 +2147,6 @@
 ||apple.eu^
 ||apple.fi^
 ||apple.fr^
-||apple.hamburg^
 ||apple.hn^
 ||apple.hr^
 ||apple.hu^

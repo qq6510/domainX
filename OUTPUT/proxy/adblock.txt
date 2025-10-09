@@ -19946,7 +19946,6 @@
 ||napier.ac.uk^
 ||napiszex.com^
 ||narf.ac.uk^
-||narod.ru^
 ||narti.ac.uk^
 ||narumiya.xii.jp^
 ||nasa.gov^
@@ -28906,6 +28905,7 @@
 ||uhtube.me^
 ||uhub.com^
 ||ui.com^
+||uighur.narod.ru^
 ||uighur.nl^
 ||uighurbiz.net^
 ||uiporn.com^

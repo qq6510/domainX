@@ -144,6 +144,7 @@ payload:
   - +.adblock.leenit.kr
   - +.adblock.mydns.network
   - +.adblock.renedis.nl
+  - +.adblocker.institutobancario.edu.mx
   - +.adblockersite.com
   - +.addns.jpr.space
   - +.addns.jujuland.net
@@ -235,6 +236,7 @@ payload:
   - +.adguard.dientutronghuong.com
   - +.adguard.discounthost.co.uk
   - +.adguard.domorome.wf
+  - +.adguard.doranpierst.com.tr
   - +.adguard.dsns.cloud
   - +.adguard.easez.net
   - +.adguard.ef67daisuki.club
@@ -444,6 +446,7 @@ payload:
   - +.ag.hostme.co.il
   - +.ag.iyn.one
   - +.ag.marschi.de
+  - +.ag.sageton.pl
   - +.ag.snrka.ru
   - +.ag.ssrahul96.xyz
   - +.ag.stepnew.ru
@@ -573,6 +576,7 @@ payload:
   - +.atlantic.dyn1.de
   - +.atris.cyou
   - +.atsilva.link
+  - +.atsssgo.xyz
   - +.au-syd-w-f-1.nashkan.net
   - +.au-syd-w-p-1.nashkan.net
   - +.au.rslvr.eu
@@ -1453,6 +1457,7 @@ payload:
   - +.dns.kisnet.id
   - +.dns.kloiber.co.at
   - +.dns.knyfie.com
+  - +.dns.kobo.dev
   - +.dns.korzhyk.pp.ua
   - +.dns.kosan.moe
   - +.dns.koshin.me
@@ -1634,6 +1639,7 @@ payload:
   - +.dns.pccoach.nl
   - +.dns.peb-schmidt.de
   - +.dns.periactes.com
+  - +.dns.pernika.net
   - +.dns.pesaventofilippo.com
   - +.dns.petqa.ru
   - +.dns.pgnhatrang.com
@@ -1938,6 +1944,7 @@ payload:
   - +.dns1.sarakas.net
   - +.dns1.schooldns.nl
   - +.dns1.serdcebolit.ru
+  - +.dns1.slowb.ro
   - +.dns1.tardishost.ru
   - +.dns1.techeasy.org
   - +.dns1.thylacine.co.nz
@@ -1981,6 +1988,7 @@ payload:
   - +.dns2.sarak.as
   - +.dns2.sarakas.net
   - +.dns2.sillav.dev
+  - +.dns2.slowb.ro
   - +.dns2.srv-home.fr
   - +.dns2.svip.one
   - +.dns2.thylacine.co.nz
@@ -2170,11 +2178,13 @@ payload:
   - +.doh.hugang8.cn
   - +.doh.ibr.cs.tu-bs.de
   - +.doh.immerda.ch
+  - +.doh.infotechlibrary.com
   - +.doh.infracell.net
   - +.doh.iqiyi.com
   - +.doh.iucc.ac.il
   - +.doh.jeroenhd.nl
   - +.doh.kekew.info
+  - +.doh.kekew.racing
   - +.doh.kel.pe
   - +.doh.kidzonet.io
   - +.doh.killtw.im
@@ -2268,6 +2278,7 @@ payload:
   - +.doh2.blahdns.com
   - +.doh2.gslb2.xfinity.com
   - +.doh3.almir1904.eu
+  - +.doh3.kekew.info
   - +.dohdot.coxlab.net
   - +.dohsg.blahdns.com
   - +.dohsg.goitoi.co
@@ -2752,6 +2763,7 @@ payload:
   - +.guard-1.vilbav.id.lv
   - +.guard-jkt-225.glosindo.net.id
   - +.guard.19kom.de
+  - +.guard.keiper.net
   - +.guard.lumusimc.co.uk
   - +.guard.magic-pics.tk
   - +.guard.miracloud.fr
@@ -3357,6 +3369,7 @@ payload:
   - +.mailkyb.co
   - +.maincloud.ir
   - +.mainframe.dewed.de
+  - +.makatla.tech
   - +.malam.or.id
   - +.malanser.ru
   - +.man01.dnscry.pt
@@ -3554,7 +3567,6 @@ payload:
   - +.neat-url.com
   - +.nedvighimost-sochi.ru
   - +.nelsonleung.org
-  - +.nephos.rocksolidtech.link
   - +.nerdcamp.net
   - +.nerdpol.ovh
   - +.net-freaks.com
@@ -4196,6 +4208,7 @@ payload:
   - +.slyip.com
   - +.slyip.net
   - +.sm5q237c0.g666gle.me
+  - +.smartcamp.su
   - +.smelly.cc
   - +.smirnovfamily.ru
   - +.sne.jp

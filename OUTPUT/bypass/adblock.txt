@@ -100,7 +100,6 @@
 ||a.passcloud.xyz^
 ||a.safe.ns.dnslify.com^
 ||a5135324.csie.io^
-||ab.teleportbot.org^
 ||abatek.com^
 ||abe01.dnscry.pt^
 ||abel.waringer-atg.de^
@@ -1589,7 +1588,6 @@
 ||dns.novali.date^
 ||dns.novg.net^
 ||dns.npe.bz^
-||dns.npsolution.it^
 ||dns.ntcrz.ru^
 ||dns.ntr.lol^
 ||dns.nubecita.biz^
@@ -2146,8 +2144,6 @@
 ||doh.domreg.lt^
 ||doh.dscloud.me^
 ||doh.e7.work^
-||doh.eastas.pi-dns.com^
-||doh.eastau.pi-dns.com^
 ||doh.eastus.pi-dns.com^
 ||doh.eddi.net^
 ||doh.eieidns.com^
@@ -2293,16 +2289,11 @@
 ||dot-sg.blahdns.com^
 ||dot.360.cn^
 ||dot.anir0y.in^
-||dot.centraleu.pi-dns.com^
 ||dot.cox.net^
-||dot.eastas.pi-dns.com^
-||dot.eastau.pi-dns.com^
-||dot.eastus.pi-dns.com^
 ||dot.ffmuc.net^
 ||dot.gordmo.com^
 ||dot.libredns.gr^
 ||dot.modsh.top^
-||dot.northeu.pi-dns.com^
 ||dot.occ.top^
 ||dot.onedns.net^
 ||dot.pub^
@@ -2311,7 +2302,6 @@
 ||dot.seby.io^
 ||dot.tiar.app^
 ||dot.tooli.ca^
-||dot.westus.pi-dns.com^
 ||dot.xfinity.com^
 ||dot1.appliedprivacy.net^
 ||doth.huque.com^
@@ -3677,7 +3667,6 @@
 ||ns4.opennameserver.org^
 ||nsc.torgues.net^
 ||nsec.arnor.org^
-||nsown.com^
 ||nsupdate.info^
 ||ntdll.top^
 ||ntwrkh.pro^
@@ -3745,7 +3734,6 @@
 ||oumage.com^
 ||ourhobby.com^
 ||oury.privado.ovh^
-||outdoorchair.site^
 ||outie.8ws.net^
 ||outiejr.8ws.net^
 ||ovhcloud.mehmetarikan.tech^
@@ -3808,7 +3796,6 @@
 ||pihole3.hoerli.net^
 ||pihole4.hoerli.net^
 ||pii.at^
-||pingbi.xyz^
 ||pioko.net^
 ||pips.kpsn.org^
 ||piroge.com^
@@ -4031,7 +4018,6 @@
 ||safe.dot.dns.yandex.net^
 ||safeservedns.com^
 ||sams.adg.siudzinski.net^
-||samsdns1943.net^
 ||sandbox.opendns.com^
 ||sandmeiers.ch^
 ||sannon-stamm.com^

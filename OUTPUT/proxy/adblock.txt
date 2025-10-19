@@ -4298,7 +4298,6 @@
 ||blogspot.li^
 ||blogspot.lt^
 ||blogspot.lu^
-||blogspot.md^
 ||blogspot.mk^
 ||blogspot.mx^
 ||blogspot.my^
@@ -4903,6 +4902,7 @@
 ||boomerang.com^
 ||boomssr.com^
 ||booru.org^
+||boosty.to^
 ||booth.pm^
 ||bootstrapcdn.com^
 ||bootyliciousmag.com^
@@ -5984,6 +5984,7 @@
 ||cdn-apple.com^
 ||cdn-telegram.org^
 ||cdn-terapeak.com^
+||cdn-vk.ru^
 ||cdn.ac.uk^
 ||cdn77.com^
 ||cdn77.org^
@@ -8115,6 +8116,7 @@
 ||diabetes-healthnet.ac.uk^
 ||diablo3.com^
 ||diabloimmortal.com^
+||diabrowser.com^
 ||dialga.com^
 ||dialogflow.com^
 ||diamantewebcam.com^
@@ -8567,6 +8569,7 @@
 ||domywife.com^
 ||don.ac.uk^
 ||donatecarsoh.org^
+||donationalerts.com^
 ||doncaster.ac.uk^
 ||donga.com^
 ||dongtaiwang.com^
@@ -8830,7 +8833,6 @@
 ||duckduckgo.com.mx^
 ||duckduckgo.com.tw^
 ||duckduckgo.de^
-||duckduckgo.dk^
 ||duckduckgo.in^
 ||duckduckgo.jp^
 ||duckduckgo.ke^
@@ -12923,6 +12925,7 @@
 ||guangming.org^
 ||guangnianvpn.com^
 ||guaranitermal.com^
+||guardarian.com^
 ||guardianapis.com^
 ||guardianapps.co.uk^
 ||guardianproject.info^
@@ -18434,6 +18437,7 @@
 ||melonstube.com^
 ||meltoday.com^
 ||meme111.com^
+||memealerts.com^
 ||memehk.com^
 ||memes.tw^
 ||memorybbs.com^
@@ -21410,6 +21414,7 @@
 ||ok.xxx^
 ||okayfreedom.com^
 ||okazudouga.tokyo^
+||okcdn.ru^
 ||okex.com^
 ||okinawabank.co.jp^
 ||okk.tw^
@@ -24651,11 +24656,15 @@
 ||samsung.com^
 ||samsungapps.com^
 ||samsungcloud.com^
+||samsungconsent.com^
 ||samsungdm.com^
 ||samsungeshop.com.cn^
 ||samsunggalaxyfriends.com^
+||samsunghealth.com^
+||samsungiotcloud.com^
 ||samsungknox.com^
 ||samsungqbe.com^
+||samsungrs.com^
 ||sandisk.ae^
 ||sandisk.cn^
 ||sandisk.co.jp^
@@ -26617,6 +26626,7 @@
 ||stdavidscollege.ac.uk^
 ||stdavidsdaygroup.ac.uk^
 ||stdoms.ac.uk^
+||stealthex.io^
 ||steam-api.com^
 ||steam-chat.com^
 ||steam.apac.qtlglb.com^
@@ -29507,6 +29517,7 @@
 ||vercel.app^
 ||vercel.blog^
 ||vercel.com^
+||vercel.dev^
 ||vercel.events^
 ||vercel.link^
 ||vercel.live^
@@ -29941,6 +29952,7 @@
 ||vk.ru^
 ||vk.team^
 ||vkcache.com^
+||vkcloud-static.ru^
 ||vkgo.app^
 ||vklive.app^
 ||vkmessenger.app^
@@ -31911,6 +31923,7 @@
 ||yandex.cloud^
 ||yandex.co.il^
 ||yandex.com^
+||yandex.com.am^
 ||yandex.com.ge^
 ||yandex.com.tr^
 ||yandex.com.ua^
@@ -32232,7 +32245,6 @@
 ||youtube.com.pk^
 ||youtube.com.pt^
 ||youtube.com.py^
-||youtube.com.qa^
 ||youtube.com.ro^
 ||youtube.com.sa^
 ||youtube.com.sg^

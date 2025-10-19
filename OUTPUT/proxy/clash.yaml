@@ -4299,7 +4299,6 @@ payload:
   - +.blogspot.li
   - +.blogspot.lt
   - +.blogspot.lu
-  - +.blogspot.md
   - +.blogspot.mk
   - +.blogspot.mx
   - +.blogspot.my
@@ -4904,6 +4903,7 @@ payload:
   - +.boomerang.com
   - +.boomssr.com
   - +.booru.org
+  - +.boosty.to
   - +.booth.pm
   - +.bootstrapcdn.com
   - +.bootyliciousmag.com
@@ -5985,6 +5985,7 @@ payload:
   - +.cdn-apple.com
   - +.cdn-telegram.org
   - +.cdn-terapeak.com
+  - +.cdn-vk.ru
   - +.cdn.ac.uk
   - +.cdn77.com
   - +.cdn77.org
@@ -8116,6 +8117,7 @@ payload:
   - +.diabetes-healthnet.ac.uk
   - +.diablo3.com
   - +.diabloimmortal.com
+  - +.diabrowser.com
   - +.dialga.com
   - +.dialogflow.com
   - +.diamantewebcam.com
@@ -8568,6 +8570,7 @@ payload:
   - +.domywife.com
   - +.don.ac.uk
   - +.donatecarsoh.org
+  - +.donationalerts.com
   - +.doncaster.ac.uk
   - +.donga.com
   - +.dongtaiwang.com
@@ -8831,7 +8834,6 @@ payload:
   - +.duckduckgo.com.mx
   - +.duckduckgo.com.tw
   - +.duckduckgo.de
-  - +.duckduckgo.dk
   - +.duckduckgo.in
   - +.duckduckgo.jp
   - +.duckduckgo.ke
@@ -12924,6 +12926,7 @@ payload:
   - +.guangming.org
   - +.guangnianvpn.com
   - +.guaranitermal.com
+  - +.guardarian.com
   - +.guardianapis.com
   - +.guardianapps.co.uk
   - +.guardianproject.info
@@ -18435,6 +18438,7 @@ payload:
   - +.melonstube.com
   - +.meltoday.com
   - +.meme111.com
+  - +.memealerts.com
   - +.memehk.com
   - +.memes.tw
   - +.memorybbs.com
@@ -21411,6 +21415,7 @@ payload:
   - +.ok.xxx
   - +.okayfreedom.com
   - +.okazudouga.tokyo
+  - +.okcdn.ru
   - +.okex.com
   - +.okinawabank.co.jp
   - +.okk.tw
@@ -24652,11 +24657,15 @@ payload:
   - +.samsung.com
   - +.samsungapps.com
   - +.samsungcloud.com
+  - +.samsungconsent.com
   - +.samsungdm.com
   - +.samsungeshop.com.cn
   - +.samsunggalaxyfriends.com
+  - +.samsunghealth.com
+  - +.samsungiotcloud.com
   - +.samsungknox.com
   - +.samsungqbe.com
+  - +.samsungrs.com
   - +.sandisk.ae
   - +.sandisk.cn
   - +.sandisk.co.jp
@@ -26618,6 +26627,7 @@ payload:
   - +.stdavidscollege.ac.uk
   - +.stdavidsdaygroup.ac.uk
   - +.stdoms.ac.uk
+  - +.stealthex.io
   - +.steam-api.com
   - +.steam-chat.com
   - +.steam.apac.qtlglb.com
@@ -29508,6 +29518,7 @@ payload:
   - +.vercel.app
   - +.vercel.blog
   - +.vercel.com
+  - +.vercel.dev
   - +.vercel.events
   - +.vercel.link
   - +.vercel.live
@@ -29942,6 +29953,7 @@ payload:
   - +.vk.ru
   - +.vk.team
   - +.vkcache.com
+  - +.vkcloud-static.ru
   - +.vkgo.app
   - +.vklive.app
   - +.vkmessenger.app
@@ -31912,6 +31924,7 @@ payload:
   - +.yandex.cloud
   - +.yandex.co.il
   - +.yandex.com
+  - +.yandex.com.am
   - +.yandex.com.ge
   - +.yandex.com.tr
   - +.yandex.com.ua
@@ -32233,7 +32246,6 @@ payload:
   - +.youtube.com.pk
   - +.youtube.com.pt
   - +.youtube.com.py
-  - +.youtube.com.qa
   - +.youtube.com.ro
   - +.youtube.com.sa
   - +.youtube.com.sg

@@ -1519,6 +1519,7 @@
 ||alphabet.us^
 ||alphabetfinance.net^
 ||alphaporno.com^
+||alphaxiv.org^
 ||alphera-finance.co.in^
 ||alphera-finance.com.hk^
 ||alphera-finance.in^
@@ -1825,6 +1826,10 @@
 ||androidtv.com^
 ||andygod.com^
 ||andysparis.com^
+||anexia-engine.com^
+||anexia-it.com^
+||anexia.at^
+||anexia.com^
 ||anfutong.cn^
 ||anfutong.com^
 ||anfutong.com.cn^
@@ -2958,6 +2963,7 @@
 ||avidemux.org^
 ||avinetworks.com^
 ||avinin.com^
+||avira.com^
 ||avizoon.site^
 ||avizoone.com^
 ||avjb.com^
@@ -4144,6 +4150,7 @@
 ||bitcoin.org^
 ||bitcointalk.org^
 ||bitcoinworld.com^
+||bitdefender.com^
 ||bite.ac.uk^
 ||bitfinex.com^
 ||bitflyer.com^
@@ -6593,6 +6600,7 @@
 ||clacks.ac.uk^
 ||clacton.ac.uk^
 ||clad.ac.uk^
+||clamwin.com^
 ||clannad-movie.jp^
 ||claravenger.com^
 ||clarendon.ac.uk^
@@ -9039,6 +9047,7 @@
 ||e-zone.com.hk^
 ||e123.hk^
 ||e3an.ac.uk^
+||e5.sk^
 ||e621.net^
 ||ea-anz-press.com^
 ||ea.com^
@@ -9905,6 +9914,11 @@
 ||esds.ac.uk^
 ||ese.ac.uk^
 ||eselondon.ac.uk^
+||eset.com^
+||eset.eu^
+||eset.sk^
+||eset.systems^
+||esetsoftware.com^
 ||esg.ac.uk^
 ||eshcru.ac.uk^
 ||esher.ac.uk^
@@ -10129,6 +10143,7 @@
 ||f-dro1d.org^
 ||f-droid.com^
 ||f-droid.org^
+||f-secure.com^
 ||f2pool.com^
 ||f5pf.com^
 ||f6988.com^
@@ -10192,7 +10207,6 @@
 ||facebooe.com^
 ||faceboof.com^
 ||facebooi.com^
-||facebooik.com^
 ||facebooik.org^
 ||facebooj.com^
 ||facebook-corp.com^
@@ -10805,6 +10819,7 @@
 ||fifastreet3.com^
 ||fife.ac.uk^
 ||fifeglen.ac.uk^
+||fifthns.com^
 ||fiftythree.com^
 ||fightforux.com^
 ||figma.com^
@@ -10957,6 +10972,7 @@
 ||firstchancesfife.ac.uk^
 ||firstfivefollowers.com^
 ||firstgynexam.com^
+||firstns.cc^
 ||firstory.me^
 ||firstpelvicexam.com^
 ||firstpost.com^
@@ -11146,6 +11162,7 @@
 ||fountmedia.io^
 ||foursquare.com^
 ||fourthinternational.org^
+||fourthns.systems^
 ||fox-corporation.com^
 ||fox-news.com^
 ||fox.com^
@@ -13915,6 +13932,7 @@
 ||hotcandyland.com^
 ||hotcoin.com^
 ||hotcool.tw^
+||hotcrp.com^
 ||hotcuckoldwife.com^
 ||hotcumporn.com^
 ||hotels.cn^
@@ -18282,6 +18300,7 @@
 ||mca.ac.uk^
 ||mcadforums.com^
 ||mcaf.ee^
+||mcafee.com^
 ||mcb.com.mm^
 ||mcc.ac.uk^
 ||mcd-holdings.co.jp^
@@ -20890,6 +20909,7 @@
 ||northumberland-acl.ac.uk^
 ||northumberland.ac.uk^
 ||northumbria.ac.uk^
+||norton.com^
 ||norwichresearchpark.ac.uk^
 ||nos.nl^
 ||notdot.net^
@@ -21619,6 +21639,7 @@
 ||openmaps.org^
 ||openreality.com^
 ||openresty.org^
+||openreview.net^
 ||openrouter.ai^
 ||opensciencelab.ac.uk^
 ||opensciencelaboratory.ac.uk^
@@ -21930,6 +21951,7 @@
 ||pandanet-igs.com^
 ||pandapow.co^
 ||pandapow.net^
+||pandasecurity.com^
 ||pandavpn-jp.com^
 ||pandavpnpro.com^
 ||pandora.com^
@@ -24993,6 +25015,7 @@
 ||secomtrust.net^
 ||second-ns.com^
 ||second-ns.de^
+||secondns.at^
 ||secret-flirt-hub.com^
 ||secretbabes.co.uk^
 ||secretchina.com^
@@ -25596,6 +25619,7 @@
 ||siege-amazon.com^
 ||sierrafriendsoftibet.org^
 ||sifa.ac.uk^
+||sigcomm.org^
 ||sigfpe.com^
 ||sigma-cetl.ac.uk^
 ||sigma-network.ac.uk^
@@ -25612,6 +25636,7 @@
 ||signalprocessingsociety.org^
 ||signalr.net^
 ||signalusers.org^
+||sigops.org^
 ||sihe.ac.uk^
 ||sijihuisuo.club^
 ||sijihuisuo.com^
@@ -27803,6 +27828,7 @@
 ||thinkwales.ac.uk^
 ||thinkwithgoogle.com^
 ||thirdmill.org^
+||thirdns.de^
 ||thisav.com^
 ||thisav.org^
 ||thisismoney.co.uk^
@@ -29239,6 +29265,7 @@
 ||usefreevpn.com^
 ||uselessjunk.com^
 ||usembassy.gov^
+||usenix.org^
 ||useplannr.com^
 ||userapi.com^
 ||usercontent.dev^

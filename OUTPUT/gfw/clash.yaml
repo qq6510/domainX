@@ -1337,6 +1337,7 @@ payload:
   - +.doc.new
   - +.docker.com
   - +.docker.io
+  - +.dockerstatus.com
   - +.docs.deno.com
   - +.docs.new
   - +.doctorvoice.org

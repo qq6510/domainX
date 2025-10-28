@@ -7775,6 +7775,7 @@
 ||deeper.com^
 ||deepfake-porn.com^
 ||deepfakeporn.net^
+||deepflood.com^
 ||deepfreeze.co.uk^
 ||deepfreeze.com^
 ||deepfreeze.com.br^
@@ -30367,6 +30368,7 @@
 ||w.org^
 ||w.sns.ly^
 ||w.wiki^
+||w0512.com^
 ||w3.org^
 ||w3s.link^
 ||w3schools.com^
@@ -31539,6 +31541,7 @@
 ||xshaker.net^
 ||xshr.online^
 ||xsijishe.com^
+||xsijishe.net^
 ||xskywalker.com^
 ||xskywalker.net^
 ||xslist.org^

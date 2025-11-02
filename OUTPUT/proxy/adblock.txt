@@ -8831,6 +8831,7 @@
 ||duckduckgo.com.mx^
 ||duckduckgo.com.tw^
 ||duckduckgo.de^
+||duckduckgo.dk^
 ||duckduckgo.in^
 ||duckduckgo.jp^
 ||duckduckgo.ke^
@@ -27483,6 +27484,7 @@
 ||temenos.ac.uk^
 ||temetube.xyz^
 ||tempusuk.ac.uk^
+||temu.com^
 ||tenacy.com^
 ||tenbyfotolia.com^
 ||tenco.cc^

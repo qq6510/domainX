@@ -6859,6 +6859,8 @@
 ||cofacts.tw^
 ||coffeemanga.to^
 ||cogc.ac.uk^
+||cohere.ai^
+||cohere.com^
 ||coin2co.in^
 ||coinalyze.net^
 ||coinbase.com^

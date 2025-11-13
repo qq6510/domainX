@@ -1094,6 +1094,8 @@
 ||afappyending.com^
 ||afewmomentswith.com^
 ||affect3dstore.com^
+||affinity.api.serifservices.com^
+||affinity.studio^
 ||affirmtrust.com^
 ||afi.ac.uk^
 ||afkv28.com^
@@ -3909,6 +3911,7 @@
 ||bfsh.hk^
 ||bftv.ac.uk^
 ||bgc.ac.uk^
+||bgicdn.com^
 ||bgme.me^
 ||bgov.com^
 ||bgr.in^
@@ -5717,6 +5720,7 @@
 ||canterburycollege.ac.uk^
 ||canterburytrust.ac.uk^
 ||cantonese.asia^
+||canva.com^
 ||canyu.org^
 ||cao.im^
 ||caobian.info^
@@ -12693,6 +12697,7 @@
 ||googleblog.com^
 ||googlebot.com^
 ||googlecapital.com^
+||googlecensorship.org^
 ||googlecert.net^
 ||googlechinawebmaster.com^
 ||googlecnapps.cn^
@@ -12861,6 +12866,7 @@
 ||greatermanchesterinternationalmedicalschool.ac.uk^
 ||greatermanchestermedicalschool.ac.uk^
 ||greatfire.org^
+||greatfirevpn.com^
 ||greatfirewall.biz^
 ||greatfirewallofchina.net^
 ||greatfirewallofchina.org^
@@ -20228,6 +20234,7 @@
 ||neoforged.net^
 ||neonatalsociety.ac.uk^
 ||neotokyo.supertop-100.com^
+||neovim.io^
 ||neow.in^
 ||neowin.net^
 ||nepusoku.com^
@@ -22901,6 +22908,7 @@
 ||porncore.net^
 ||porncoven.com^
 ||porndabster.com^
+||porndeals.com^
 ||porndeepfake.net^
 ||porndex.com^
 ||porndiamond.com^
@@ -25784,7 +25792,6 @@
 ||sitepoint.com^
 ||siterips.org^
 ||siteripz.com^
-||siteripz.net^
 ||sites.new^
 ||siti.ac.uk^
 ||situero.com^
@@ -32574,6 +32581,7 @@
 ||zeit.sh^
 ||zeitworld.com^
 ||zello.com^
+||zen-browser.app^
 ||zen8ok.xyz^
 ||zencdn.net^
 ||zencoder.com^

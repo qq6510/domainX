@@ -3803,7 +3803,6 @@
 ||port25.biz^
 ||portfwd.com^
 ||portmap.host^
-||portrelay.com^
 ||positif4.cross.net.id^
 ||prdot.cldsrv.es^
 ||premiumtier-network.instadart.net^

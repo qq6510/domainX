@@ -940,6 +940,7 @@
 ||demoteam.ch^
 ||den01.dnscry.pt^
 ||derevnya.px.i81.ru^
+||desec.io^
 ||dev.gonnadive.com^
 ||dflexy.house.nom.br^
 ||dfw02.dnscry.pt^
@@ -1907,6 +1908,7 @@
 ||dns1.sarakas.net^
 ||dns1.schooldns.nl^
 ||dns1.serdcebolit.ru^
+||dns1.server.my.id^
 ||dns1.slowb.ro^
 ||dns1.tardishost.ru^
 ||dns1.techeasy.org^

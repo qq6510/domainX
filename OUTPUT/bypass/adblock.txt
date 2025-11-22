@@ -2356,6 +2356,7 @@
 ||dyndns-free.com^
 ||dyndns-home.com^
 ||dyndns-ip.com^
+||dyndns-ip.org^
 ||dyndns-mail.com^
 ||dyndns-office.com^
 ||dyndns-pics.com^
@@ -3776,7 +3777,6 @@
 ||planetdns.ca^
 ||planetdns.net^
 ||play.ai^
-||plex.direct^
 ||plex.skin57.de^
 ||pluton.plan9-dns.com^
 ||plwgroup.com^

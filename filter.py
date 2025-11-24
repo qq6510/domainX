@@ -29,6 +29,7 @@ BLACKLIST_CONFIG = {
         "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
         "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt",
         "https://big.oisd.nl",
+        "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all",
         "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt",
         "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/native.oppo-realme.txt",
         "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/native.xiaomi.txt"

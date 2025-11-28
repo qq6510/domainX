@@ -901,6 +901,7 @@ payload:
   - +.adobesigncdn.com
   - +.adobespark.com
   - +.adobess.com
+  - +.adobestats.io
   - +.adobestock.com
   - +.adobetcstrialdvd.com
   - +.adobetechcomm.com
@@ -986,6 +987,7 @@ payload:
   - +.advertising.com
   - +.adwordsexpress.com
   - +.ae-ad-1.myhuaweicloud.com
+  - +.ae-rus.net
   - +.ae.hao123.com
   - +.ae.org
   - +.aeasyshop.com
@@ -999,6 +1001,7 @@ payload:
   - +.aerogardcn.com
   - +.aerospace-cadcam.com
   - +.aerospace-design.com
+  - +.aestatic.net
   - +.aesworkshops.com
   - +.aex.com
   - +.af-east-201.myhuaweicloud.com
@@ -1586,6 +1589,7 @@ payload:
   - +.america.gov
   - +.american.edu
   - +.americangreencard.com
+  - +.americanunfinished.com
   - +.americasvoice.news
   - +.americorps.gov
   - +.amerikaninsesi.com
@@ -1716,6 +1720,7 @@ payload:
   - +.aniscartujo.com
   - +.anistreaming.xyz
   - +.ankarazirvesi2018.com
+  - +.anm.co.uk
   - +.annamilk.com
   - +.annas-archive.org
   - +.annas-archive.se
@@ -2488,6 +2493,7 @@ payload:
   - +.ausbeatsbydrdre.com
   - +.auth0.com
   - +.authorizeddns.net
+  - +.authorizeddns.org
   - +.authorizeddns.us
   - +.authorxml.com
   - +.authy.com
@@ -4557,6 +4563,7 @@ payload:
   - +.briefdream.com
   - +.brightcove.com
   - +.brightcove.net
+  - +.brightcove.services
   - +.brightcovecdn.com
   - +.brightline.tv
   - +.briian.com
@@ -5239,6 +5246,8 @@ payload:
   - +.championshipseriesleague.com
   - +.change.org
   - +.changeip.name
+  - +.changeip.net
+  - +.changeip.org
   - +.changp.com
   - +.changsa.net
   - +.channel4.com
@@ -5618,6 +5627,7 @@ payload:
   - +.clb.org.hk
   - +.clco.cc
   - +.cleansite.info
+  - +.cleansite.us
   - +.clear.co.com
   - +.clearasil.us
   - +.clearcenter.com
@@ -5870,6 +5880,9 @@ payload:
   - +.comefromchina.com
   - +.cometotheduckside.com
   - +.comffvpn.com
+  - +.comfy.org
+  - +.comfyci.org
+  - +.comfyregistry.org
   - +.comic-mega.me
   - +.comicbox.xyz
   - +.comico.tw
@@ -6423,8 +6436,10 @@ payload:
   - +.dditsadn.com
   - +.dditscdn.com
   - +.ddns.me.uk
+  - +.ddns.mobi
   - +.ddns.ms
   - +.ddns.net
+  - +.ddns.us
   - +.ddo.jp
   - +.de-sci.org
   - +.de1lib.org
@@ -6784,6 +6799,7 @@ payload:
   - +.dh44.lol
   - +.dharamsalanet.com
   - +.dharmakara.net
+  - +.dhcp.biz
   - +.dhlestudio.com.co
   - +.diablo3.com
   - +.diabloimmortal.com
@@ -7128,10 +7144,15 @@ payload:
   - +.dnaindia.com
   - +.dnaspaces.io
   - +.dndbeyond.com
+  - +.dns-stuff.com
   - +.dns.sb
+  - +.dns04.com
+  - +.dns1.us
+  - +.dns2.us
   - +.dns2go.com
   - +.dnscrypt.org
   - +.dnsimple.com
+  - +.dnsrd.com
   - +.dnssec.net
   - +.dnsserver1.de
   - +.dnsserver2.de
@@ -7397,6 +7418,7 @@ payload:
   - +.dsex.to
   - +.dslr.net
   - +.dslreports.com
+  - +.dsmtp.com
   - +.dsmynas.com
   - +.dsmynas.net
   - +.dsmynas.org
@@ -7456,6 +7478,7 @@ payload:
   - +.duihuahrjournal.org
   - +.dukgo.com
   - +.dulceecuador.com
+  - +.dumb1.com
   - +.dumblittleman.com
   - +.dump.xxx
   - +.dumps69.com
@@ -7578,6 +7601,8 @@ payload:
   - +.dyndns-ip.com
   - +.dyndns-pics.com
   - +.dyndns.org
+  - +.dyndns.pro
+  - +.dynssl.com
   - +.dynu.com
   - +.dynu.net
   - +.dysfz.cc
@@ -8257,6 +8282,7 @@ payload:
   - +.esmarthealth.com
   - +.esmatube.com
   - +.esmplus.com
+  - +.esmtp.biz
   - +.esoir.be
   - +.esopworld.com
   - +.esp32.com
@@ -8417,6 +8443,7 @@ payload:
   - +.eyny.com
   - +.ezpc.tk
   - +.ezpeer.com
+  - +.ezua.com
   - +.f-dro1d.org
   - +.f-droid.com
   - +.f-droid.org
@@ -9603,6 +9630,7 @@ payload:
   - +.freechinaforum.org
   - +.freechinaweibo.com
   - +.freecodecamp.org
+  - +.freeddns.com
   - +.freeddns.org
   - +.freedirecttvspecial.com
   - +.freedl.org
@@ -9674,6 +9702,7 @@ payload:
   - +.freess.org
   - +.freessh.us
   - +.freessl.com
+  - +.freetcp.com
   - +.freeteenporn.xxx
   - +.freetibet.net
   - +.freetibet.org
@@ -9759,6 +9788,7 @@ payload:
   - +.ftimg.net
   - +.ftop.ru
   - +.ftopx.com
+  - +.ftp1.biz
   - +.ftpserver.biz
   - +.ftv.com.tw
   - +.ftvgirls.com
@@ -10406,6 +10436,7 @@ payload:
   - +.gmll.org
   - +.gmnetworks.net
   - +.gmocloud.com
+  - +.gmodules.com
   - +.gmoney.org
   - +.gmote.org
   - +.gmp4.com
@@ -10806,6 +10837,7 @@ payload:
   - +.gossipfuli6883.xyz
   - +.gostorego.com
   - +.gostosanovinha.com
+  - +.got-game.org
   - +.gotblop.com
   - +.gotcosmos.com
   - +.gotdns.ch
@@ -12013,6 +12045,7 @@ payload:
   - +.html5rocks.com
   - +.htnewbooks.com
   - +.httpfacebook.com
+  - +.https443.org
   - +.httpsfacebook.com
   - +.httpwwwfacebook.com
   - +.htvncdn.net
@@ -12527,6 +12560,7 @@ payload:
   - +.ikids.com
   - +.iknowthatgirl.com
   - +.ikstar.com
+  - +.ikwb.com
   - +.ilbe.com
   - +.ilecture.co.nz
   - +.ilhamtohtiinstitute.org
@@ -13076,6 +13110,8 @@ payload:
   - +.ios-icloud.com
   - +.iosinthecar.com
   - +.iotinactionevents.com
+  - +.iownyour.biz
+  - +.iownyour.org
   - +.ip-api.com
   - +.ip.gs
   - +.ip.sb
@@ -13257,6 +13293,7 @@ payload:
   - +.is-a-hunter.com
   - +.is.gd
   - +.isaacmao.com
+  - +.isasecret.com
   - +.isbgpsafeyet.com
   - +.isca-speech.org
   - +.ischool.com
@@ -13840,6 +13877,7 @@ payload:
   - +.juroku.co.jp
   - +.just.xxx
   - +.justav.net
+  - +.justdied.com
   - +.justdoit.us
   - +.justduckit.com
   - +.justfamilyporn.com
@@ -14470,7 +14508,10 @@ payload:
   - +.lexuemei.com
   - +.lezpoo.com
   - +.lfai.foundation
+  - +.lflink.com
+  - +.lflinkup.com
   - +.lflinkup.net
+  - +.lflinkup.org
   - +.lfpcontent.com
   - +.lg.com
   - +.lgappstv.com
@@ -15677,6 +15718,7 @@ payload:
   - +.microsoftgamestack.com
   - +.microsofthouse.com
   - +.microsofthouse.net
+  - +.microsoftinternetsafety.net
   - +.microsoftiotcentral.com
   - +.microsoftiotinsiderlabs.com
   - +.microsoftlatamaitour.com
@@ -16442,6 +16484,7 @@ payload:
   - +.mrpornlive.com
   - +.mrsSiren.com
   - +.mrskin.com
+  - +.mrslove.com
   - +.mrssiren.com
   - +.mrtweet.com
   - +.mrvideosdesexo.xxx
@@ -16645,6 +16688,8 @@ payload:
   - +.mycomicsxxx.com
   - +.myconstructionworld.net
   - +.mycould.com
+  - +.mydad.info
+  - +.myddns.com
   - +.mydirectgroove.com
   - +.mydirectvchannels.com
   - +.mydirtyhobby.com
@@ -16691,6 +16736,7 @@ payload:
   - +.myfreepaysite.com
   - +.myfreeporngames.com
   - +.myfreshnet.com
+  - +.myftp.info
   - +.myftp.name
   - +.myfun.com
   - +.mygaysites.com
@@ -16725,18 +16771,24 @@ payload:
   - +.myminiso.com
   - +.mymmode.com
   - +.mymoe.moe
+  - +.mymom.info
   - +.mymusclevideo.com
   - +.mymusic.net.tw
+  - +.mynetav.net
+  - +.mynetav.org
   - +.mynetname.net
   - +.mynike.com
+  - +.mynumber.org
   - +.myoctocat.com
   - +.myparagliding.com
   - +.mypearson.com
   - +.mypearsonenglish.ch
   - +.mypearsonshop.com.mx
   - +.mypearsonshop.mx
+  - +.mypicture.info
   - +.mypikpak.com
   - +.mypikpak.net
+  - +.mypop3.net
   - +.mypop3.org
   - +.mypopescu.com
   - +.mypornads.com
@@ -16763,6 +16815,7 @@ payload:
   - +.mysdn.com
   - +.mysdn.info
   - +.mysdn.net
+  - +.mysecondarydns.com
   - +.mysexgames.com
   - +.mysexygfs.com
   - +.myshopify.com
@@ -16799,6 +16852,7 @@ payload:
   - +.myxxgirl.com
   - +.myyoungmomisnude.com
   - +.myyoungwifeisnude.com
+  - +.myz.info
   - +.mzed.com
   - +.n15zev3w.shop
   - +.n26.com
@@ -16922,6 +16976,7 @@ payload:
   - +.nbcnews.com
   - +.nbcolympics.com
   - +.nbcsports.com
+  - +.nbcudigitaladops.com
   - +.nbcuni.com
   - +.nbcuniversal.com
   - +.nbdh15.buzz
@@ -17559,6 +17614,11 @@ payload:
   - +.nrooms-dh.sbs
   - +.ns.ci
   - +.ns01.biz
+  - +.ns01.info
+  - +.ns02.biz
+  - +.ns02.info
+  - +.ns02.us
+  - +.ns1.name
   - +.ns2.name
   - +.ns3.name
   - +.nsfw.xxx
@@ -17978,6 +18038,7 @@ payload:
   - +.onedrive.live.com
   - +.onedrive.net
   - +.onedrive.org
+  - +.onedumb.com
   - +.onefifteen.net
   - +.onefifteen.org
   - +.onejapanese.com
@@ -18039,6 +18100,8 @@ payload:
   - +.onmoon.com
   - +.onmoon.net
   - +.onmypc.biz
+  - +.onmypc.info
+  - +.onmypc.org
   - +.onmypc.us
   - +.onrender.com
   - +.onsalekey.com
@@ -18262,6 +18325,7 @@ payload:
   - +.oyax.com
   - +.oyeloca.com
   - +.oyghan.com
+  - +.oystermercury.top
   - +.ozchinese.com
   - +.ozeex.com
   - +.ozodi.org
@@ -18901,6 +18965,7 @@ payload:
   - +.pixiv.help
   - +.pixiv.me
   - +.pixiv.net
+  - +.pixiv.org
   - +.pixivision.net
   - +.pixivsketch.net
   - +.pixlr-o-matic.com
@@ -19650,6 +19715,7 @@ payload:
   - +.proxy1.xyz
   - +.proxyadult.org
   - +.proxyanonimo.es
+  - +.proxydns.com
   - +.proxylist.org.uk
   - +.proxynetwork.org.uk
   - +.proxypy.net
@@ -20064,12 +20130,15 @@ payload:
   - +.rbeuroinfo.com
   - +.rbgrads.com
   - +.rbgraduates.com
+  - +.rblx.org
   - +.rbmavericks.com
   - +.rbnainternational.com
   - +.rbplc.com
   - +.rbrandlibrary.com
   - +.rbsgr.com
   - +.rbspeakup.com
+  - +.rbx.com
+  - +.rbxcdn.com
   - +.rcinet.ca
   - +.rcl07.xyz
   - +.rclon.com
@@ -20158,6 +20227,7 @@ payload:
   - +.reastatic.net
   - +.reaxys.com
   - +.rebates.jp
+  - +.rebatesrule.net
   - +.rebornos.org
   - +.rebrandly.com
   - +.recelebrity.com
@@ -20362,6 +20432,8 @@ payload:
   - +.road-crew.com
   - +.roadshow.hk
   - +.robertmao.com
+  - +.roblox-api.arkoselabs.co
+  - +.roblox.com
   - +.roblox.qq.com
   - +.robobat.com
   - +.roboforex.com
@@ -20849,6 +20921,7 @@ payload:
   - +.sellercommunity.com
   - +.semanticscholar.org
   - +.sena.co.kr
+  - +.sendsmtp.com
   - +.sendspace.com
   - +.seneporno.com
   - +.seniortgp.com
@@ -21952,6 +22025,7 @@ payload:
   - +.squarespace.com
   - +.squareup.com
   - +.squidplatform.com
+  - +.squirly.info
   - +.squirrelgroup.net
   - +.squirrelvpn.com
   - +.sqyzh-dh.sbs
@@ -22367,6 +22441,7 @@ payload:
   - +.superpages.com
   - +.superpapermario.com
   - +.supersexeamateur.com
+  - +.supersrv.de
   - +.superstation.com.tw
   - +.supertop.co
   - +.superuser.com
@@ -23298,6 +23373,7 @@ payload:
   - +.toget.com.tw
   - +.togetter.com
   - +.toggleable.com
+  - +.toh.info
   - +.tohobank.co.jp
   - +.tohoku-bank.co.jp
   - +.token.im
@@ -23497,6 +23573,8 @@ payload:
   - +.triangulationblog.com
   - +.triballo.net
   - +.tribler.org
+  - +.trickip.net
+  - +.trickip.org
   - +.trikepatrol.com
   - +.trimondi.de
   - +.triokini.com
@@ -25323,6 +25401,7 @@ payload:
   - +.wbd.ms
   - +.wbdnbo.net
   - +.wbgames.com
+  - +.wbinsights.com
   - +.wbvm4s.com
   - +.wd.bible
   - +.wd.com
@@ -25609,6 +25688,7 @@ payload:
   - +.windowsphone-int.com
   - +.windowsphone.com
   - +.windowsphoneme.com
+  - +.windowssearch.com
   - +.windowsuem.com
   - +.windowsupdate.com
   - +.windscribe.com
@@ -25816,6 +25896,7 @@ payload:
   - +.wwwebay.net
   - +.wwwfacebok.com
   - +.wwwfacebook.com
+  - +.wwwhost.biz
   - +.wwwhuluplus.com
   - +.wwwicloud.com
   - +.wwwinstagram.com
@@ -26607,6 +26688,7 @@ payload:
   - +.yandex.org
   - +.yandex.pl
   - +.yandex.ru
+  - +.yandex.st
   - +.yandex.sx
   - +.yandex.tj
   - +.yandex.tm
@@ -26666,6 +26748,7 @@ payload:
   - +.yfrog.com
   - +.yfsp.tv
   - +.yft-mv.sbs
+  - +.ygto.com
   - +.ygugu4.com
   - +.yhcw.net
   - +.yhgwgtv.xyz
@@ -26729,6 +26812,7 @@ payload:
   - +.you.com
   - +.youassporn.com
   - +.youav.com
+  - +.youdontcare.com
   - +.youflix.is
   - +.youjism.com
   - +.youjizz.com
@@ -26795,6 +26879,7 @@ payload:
   - +.yourprivatevpn.com
   - +.yoursigmoidoscopy.com
   - +.yourspeculumexam.com
+  - +.yourtrap.com
   - +.yourtv.com.au
   - +.yourupskirt.com
   - +.yourvoyeurvideos.com

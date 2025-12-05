@@ -18929,6 +18929,7 @@
 ||pinterest.com.uy^
 ||pinterest.com.vn^
 ||pinterest.de^
+||pinterest.dk^
 ||pinterest.ec^
 ||pinterest.engineering^
 ||pinterest.es^
@@ -26572,7 +26573,6 @@
 ||yahoo.cm^
 ||yahoo.cn^
 ||yahoo.co.ao^
-||yahoo.co.bw^
 ||yahoo.co.ck^
 ||yahoo.co.cr^
 ||yahoo.co.id^

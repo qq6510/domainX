@@ -4792,6 +4792,7 @@
 ||bypasscensorship.org^
 ||byrut.org^
 ||byspotify.com^
+||bytedapm.com^
 ||byteglb.com^
 ||byteoversea.com^
 ||byteoversea.net^
@@ -17262,6 +17263,7 @@
 ||nextwork.com.tw^
 ||nextwork.hk^
 ||nextwork.tw^
+||nexus-cdn.com^
 ||nexusmods.com^
 ||nf.id.au^
 ||nfjtyd.com^
@@ -23361,6 +23363,7 @@
 ||tig-ol-bitties.live^
 ||tigervpn.com^
 ||tik-tokapi.com^
+||tiktok-minis.com^
 ||tiktok-row.net^
 ||tiktok.com^
 ||tiktokcdn-eu.com^

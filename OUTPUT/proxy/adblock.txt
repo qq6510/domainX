@@ -2779,6 +2779,7 @@
 ||awjq.cc^
 ||aws-iot-hackathon.com^
 ||aws.com^
+||aws.dev^
 ||awsapprunner.com^
 ||awsapps.com^
 ||awsautopilot.com^
@@ -26703,6 +26704,7 @@
 ||yahoo.cm^
 ||yahoo.cn^
 ||yahoo.co.ao^
+||yahoo.co.bw^
 ||yahoo.co.ck^
 ||yahoo.co.cr^
 ||yahoo.co.id^

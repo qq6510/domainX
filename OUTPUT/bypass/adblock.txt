@@ -138,6 +138,7 @@
 ||adblock.krctech.dev^
 ||adblock.leenit.kr^
 ||adblock.mydns.network^
+||adblock.opendoh.com^
 ||adblock.renedis.nl^
 ||adblocker.institutobancario.edu.mx^
 ||adblockersite.com^
@@ -1588,6 +1589,7 @@
 ||dns.omada.cafe^
 ||dns.omee4.ru^
 ||dns.opendns.com^
+||dns.opendoh.com^
 ||dns.ord.chriswang.work^
 ||dns.oryxlabs.com^
 ||dns.osmenoga.com^
@@ -3435,7 +3437,6 @@
 ||mydissent.net^
 ||mydns.bz^
 ||mydns.jp^
-||mydns.x96maxultra.ru^
 ||myeffect.net^
 ||myftp.biz^
 ||myftp.info^
@@ -4568,7 +4569,6 @@
 ||x.res.wang^
 ||x24hr.com^
 ||x443.pw^
-||xbcpb668.com^
 ||xddns.de^
 ||xenergy.cc^
 ||xfer.au^

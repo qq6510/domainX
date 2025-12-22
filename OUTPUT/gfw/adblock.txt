@@ -4548,6 +4548,7 @@
 ||startpage.com^
 ||startuplivingchina.com^
 ||static-economist.com^
+||static.pocketcasts.com^
 ||static.shemalez.com^
 ||staticflickr.com^
 ||stboy.net^

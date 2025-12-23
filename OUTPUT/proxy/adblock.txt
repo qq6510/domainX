@@ -14745,6 +14745,7 @@
 ||linkideo.com^
 ||linkjunkies.com^
 ||links2linux.de^
+||linksalpha.com^
 ||linkshit.com^
 ||linktr.ee^
 ||linkuswell.com^
@@ -25442,7 +25443,12 @@
 ||vraiesagesse.net^
 ||vrbgay.com^
 ||vrcams.io^
+||vrcdn.cloud^
+||vrcdn.live^
+||vrcdn.video^
+||vrchat.cloud^
 ||vrchat.com^
+||vrchat.net^
 ||vred-essentials.com^
 ||vredessentials.com^
 ||vredprofessional.com^
@@ -26741,6 +26747,7 @@
 ||yahoo.com.br^
 ||yahoo.com.bz^
 ||yahoo.com.co^
+||yahoo.com.do^
 ||yahoo.com.ec^
 ||yahoo.com.eg^
 ||yahoo.com.es^
